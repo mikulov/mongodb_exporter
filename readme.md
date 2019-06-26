@@ -1,1 +1,2 @@
-https://github.com/percona/mongodb_exporter#running
+sha256sum
+7c3e6ceeb2dbdfd335e4fa5138fddc70b344cb5d9cc0491d4e53a17c4bb0accb  mongodb_exporter_071
